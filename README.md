@@ -1,2 +1,2 @@
-# PrepCourse1.0
-repositorio de prueba modulo 2 Henry
+proyecto de como crear un reposiorio y clonarlo a mi computadora
+
